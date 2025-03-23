@@ -1,0 +1,6 @@
+{
+    "require": {
+        "tecnick.com/tcpdf": "^6.8",
+        "tecnickcom/tcpdf": "^6.8"
+    }
+}
